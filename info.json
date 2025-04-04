@@ -1,0 +1,25 @@
+{
+    "name": "solution-pack-fsr-qa-custom-multi-svt-2",
+    "version": "1.0.0",
+    "fsrMinCompatibility": "7.2.0",
+    "type": "solutionpack",
+    "local": true,
+    "label": "solution-pack-fsr-qa-custom-multi-svt-2",
+    "dependencies": [],
+    "prerequisite": null,
+    "publisher": "Community",
+    "description": "",
+    "help": null,
+    "category": [],
+    "supportInfo": null,
+    "iconLarge": null,
+    "postInstallConfig": null,
+    "date": "2025-04-04T06:54:04+00:00",
+    "contents": {
+        "dashboards": [
+            {
+                "name": "X Dashboard"
+            }
+        ]
+    }
+}
